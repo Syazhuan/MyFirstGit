@@ -45,4 +45,14 @@
         tools:layout_editor_absoluteX="168dp"
         tools:layout_editor_absoluteY="14dp" />
 
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="89dp"
+        android:layout_height="40dp"
+        android:scaleX="0.7"
+        android:scaleY="0.7"
+        android:text="LOGIN"
+        tools:layout_editor_absoluteX="161dp"
+        tools:layout_editor_absoluteY="296dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
